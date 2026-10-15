@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qwg01056175878-cmyk.github.io/kosmi-website/sitemap.xml
